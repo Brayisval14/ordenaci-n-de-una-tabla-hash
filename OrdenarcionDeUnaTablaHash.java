@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class OrdenarHash {
+public class OrdenarcionDeUnaTablaHash {
     public static void main(String[] args) {
         HashMap<String, Integer> tabla = new HashMap<>();
         tabla.put("a", 50);
